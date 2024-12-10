@@ -118,6 +118,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed by **Marcin Potoczny**.  
 Feel free to explore and contribute! 🚀
-```
-
----
