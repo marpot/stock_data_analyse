@@ -1,12 +1,8 @@
----
-
-### Poprawiona wersja z dodatkami:
-```markdown
 # Stock Data Analysis Application
 
 A Streamlit-based application for analyzing market data, including stock and cryptocurrency prices, as well as forecasting future stock prices using a neural network. Users can access historical data, visualize charts, and predict stock prices using a pre-trained model.
 
----
+
 
 ## 🌟 Features
 
